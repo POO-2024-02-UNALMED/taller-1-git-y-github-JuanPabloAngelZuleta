@@ -1,1 +1,6 @@
+
 Me lamo Juan Pablo Angel Zuleta // Tengo 18 años // Espero comprender bien todos los temas de la materia y obtener una buena nota al final
+
+Ahora puedo crear un commit y subir la carpeta porque esta en la ubicacion correcta en mi computadora y no presenta ningun problema
+
+Es importante para evitar conflictos en los archivos
