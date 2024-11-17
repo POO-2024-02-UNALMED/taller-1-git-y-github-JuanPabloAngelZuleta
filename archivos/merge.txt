@@ -1,0 +1,1 @@
+Ahora puedo crear un commit y subir la carpeta porque esta en la ubicacion correcta en mi computadora y no presenta ningun problema
